@@ -44,6 +44,6 @@ This project implements a real-time face recognition system using webcam input. 
 ```
 ### 2. Install the dependencies
 ```
-python3 face_rec.py
+    python3 face_rec.py
 ```
 
